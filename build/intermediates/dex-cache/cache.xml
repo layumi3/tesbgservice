@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_64ccc1facdce3b6d1cb92ae0012d376bfc816499.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.0_d04fd57fb6ad83eaff2f59d8ec1950a55197c8bb.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.0_325ec95c6c189f662bd1bbe712e9269ba894e33c.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.0_a58430531a22c12acc48ea4bd273e3cd47acc325.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.0_248f3363a3a91f68345bccfd874ac56c12615a55.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.0_6b8ca31aa385f2c71077895513fa0ee21551925d.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.0_960d589bc46e420cf8024968c02b560a86820d49.jar" />
+    </item>
+    <item
+        jar="C:\Users\lacorp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_55426cef92e939fb7141d80e008bc508d079c0d9.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.0_0f48f21b61159114e6985bfa4b02867e89e14ece.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.0_5a4b861da49b138b9e98bf55d40529354f4b5599.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.0_a2c8e870f565241c2f3a10e1032e9edafe7188a8.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.0_ccb6ce61417b3f9f442a1b0380e90a96098985e6.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.0_9d39006c7c43ed8590ce080b96c08b6ce64098df.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_670946aba885ad2933d1f0cc8fe94ad45aecaffa.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_3b5e9afa71d0926567162ae30103023daaa320ed.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.0_1aeb1edaf5324708d40fb74b0591f8d0a70e4fac.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.0_203a804f4ad427da3898ebafd9075e2a9bcc8cc0.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.0_f69b9a8dde764ebc35799cdca1d3157a11e12b30.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.0_2714a85e8c727eabac62674d20434727d2f68e8c.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_23215406a13aa92ae5d0bbbda421ac45447831bf.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.0_b10ea270130ad553567f25dd6f00f12b5d935e58.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.0_28f8a4f884b13f379c5853ee5ee6aec13ec35405.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_9594a71c9ee66cf01fc4d5900018dd177bd90cd3.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.0_a07f27894ba6d54b986fcdf4ecd48d6d5da8eccb.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.0_8ad03f80bb5a7ffff277c5330b8b7b85aae143b8.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.0_f23756b2e9fd4f021d979e9a35066fc841e5da81.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="91fd9cfe100295900670a4c33901461dc4af404e">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\instant-run_4dab4ce3402d3a84da9e0898dfa2f553c6360370.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_173a9a098a81913955c5c9bdf5b23fcba8f5e744.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_eba15a212581ca3f6a71856da2932959961fed0b.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.0_f668f928d3046605c6cb621fb4259875fcd3995a.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.0_3c7d6178fabf0a2c3edbe398bfff809022ae8384.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.0_5dd217aae5ffe32a21b29643ef2a905d79d4e61a.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.0_8bcba72b8373b032615182e5f9ef01901c845243.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.0_51d31efcb240dd0d1cd553ff219a29e8d5334cd6.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_6980b42833b9ebe3a32ce50c12a5bc681e520e16.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_a5a484c8bc29092b3f3435278b8d1bd87259d9de.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_0ab5916ad0ec7a58382b552deb6ec247b237a00d.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.0_6e98041505835c095b3bc2ba0f81be992622d67a.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_f96b40c6b42bc7221b4df9e2c8ba7952d1ba3f59.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.0_5d3a0ea52c4a2e094ac6673cc000471350e27cc2.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_71525d885de2bf076c28c89c97f4f5413505f9ef.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.0_9f1f335cc07db8e7ef48a83f17e7bc05cebab016.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_b81f86e3a61c8d71c9caa7a02a722cddc5b6978e.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.0_bfd1a8f4d5f2deed77b5af16a4b6e62af41389fe.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_c948e5ee17d0530f4cd4f523bb36eb53845ddd37.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_9eca52beea7b21065f18540aa410cc0a4902d39f.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_e12c46e56d369e025ffa8e4184b73324f123f9ec.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_211c0babfd43d62663c41e0e649150f2d2e4715c.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.0_882ad16a1cd37b42c3743d3626b5968b08cb31cf.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.0_640d63f04ff29021a87afa59de9430860c58fdf7.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.0_ab33d3a155f18b6a21d6532eec7a6833dd04f2f3.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="1d1cd3ee1d701cac46903a8438a035513f2a3d18">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_df46b9e99baaa34758c1eafe2d0b8240ae4d123a.jar" />
+    </item>
+    <item
+        jar="E:\tes\tesbgservice2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="E:\tes\tesbgservice2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.0_963b37a066d330977619f576d0391f726fb47073.jar" />
+    </item>
+
+</items>
